@@ -32,7 +32,7 @@ This is a simple web application built with Flask that tracks website visits and
 
 ### 1. Clone the Repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/860720angie/testing-final-project.git
 cd testing-final-project
 ```
 
