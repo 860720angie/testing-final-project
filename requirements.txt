@@ -1,0 +1,22 @@
+# Web Framework
+Flask>=3.1.0
+
+# Web Server for production
+gunicorn>=23.0.0
+
+# Database Client
+psycopg2-binary>=2.9.9
+
+greenlet>=2.0.2
+
+# Testing 
+pytest>=8.3.5
+pytest-cov>=6.1.1
+pytest-randomly>=3.16.0
+
+# Mocking testing
+requests>=2.31.0
+
+# System Testing 
+playwright>=1.43.0
+
